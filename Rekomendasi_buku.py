@@ -5,9 +5,13 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import time
 from tensorflow.keras.models import load_model
+from tensorflow.keras.optimizers import Adam
 
-# Memuat model
-model = load_model('model.keras')
+# Mendaftarkan custom optimizer
+custom_objects = {'CustomAdam': Adam}
+
+# Memuat model dengan custom optimizer yang terdaftar
+model = load_model('model.keras', custom_objects=custom_objects)
 
 Dataset_buku = 'data_sets'
 
