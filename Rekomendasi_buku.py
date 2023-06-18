@@ -8,9 +8,9 @@ from keras.models import load_model
 
 
 # Memuat model
-# model = load_model('./model.keras')
+model = load_model('./model.keras')
 
-# Dataset_buku = './data_sets'
+Dataset_buku = './data_sets'
 
 @st.cache
 def prepare_data():
@@ -87,7 +87,7 @@ def book_recommendations(judul_buku, similarity_data, items, k=5):
     closest = closest.drop(judul_buku, errors='ignore')
     return pd.DataFrame(closest).merge(items).head(k)
 
-# def get_user_data(user_id, book_data):
+def get_user_data(user_id, book_data):
     
     Dataset_buku = './data_sets'
 
@@ -111,7 +111,7 @@ def book_recommendations(judul_buku, similarity_data, items, k=5):
 
     return user_ratings, book_not_read
 
-# def show_user_recommendations(user_ratings, book_not_read, book_data):
+def show_user_recommendations(user_ratings, book_not_read, book_data):
     
     Dataset_buku = './data_sets'
 
@@ -162,6 +162,7 @@ def book_recommendations(judul_buku, similarity_data, items, k=5):
     for row in recommended_book.itertuples():
         st.write(row.penulis, ':', row.judul_buku)
 
+
 def main():
     st.title('Sistem Rekomendasi Buku')
 
@@ -176,12 +177,12 @@ def main():
         st.dataframe(rekomendasi)
 
 
-    # user_id_input = st.text_input('Masukkan user ID:')
+    user_id_input = st.text_input('Masukkan user ID:')
     
-    # if st.button('Tampilkan Rekomendasi User'):
-    #     # df = pd.read_csv(Dataset_buku + '/ratings.csv')
-    #     user_ratings, book_not_read = get_user_data(int(user_id_input), book_data)
-    #     show_user_recommendations(user_ratings, book_not_read, book_data)
+    if st.button('Tampilkan Rekomendasi User'):
+        # df = pd.read_csv(Dataset_buku + '/ratings.csv')
+        user_ratings, book_not_read = get_user_data(int(user_id_input), book_data)
+        show_user_recommendations(user_ratings, book_not_read, book_data)
 
 
 # Memanggil fungsi show_data saat aplikasi Streamlit dijalankan
