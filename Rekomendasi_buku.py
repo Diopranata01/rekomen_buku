@@ -13,7 +13,7 @@ from keras.models import load_model
 
 # Dataset_buku = './data_sets'
 
-@st.cache_data
+@st.cache
 def prepare_data():
     
     Dataset_buku = './data_sets'
