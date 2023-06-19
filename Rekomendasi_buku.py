@@ -84,8 +84,8 @@ Dataset_buku = './data_sets'
 def book_recommendations(judul_buku, similarity_data, items, k=5):
     
     items['judul_buku'] = items['judul_buku'].astype(str)
-    closest['judul_buku'] = closest['judul_buku'].astype(str)
-    
+    similarity_data['judul_buku'] = similarity_data['judul_buku'].astype(str)
+
     index = similarity_data.loc[:, judul_buku].to_numpy().argpartition(range(-1, -k, -1))
     closest = similarity_data.columns[index[-1:-(k+2):-1]]
     closest = closest.drop(judul_buku, errors='ignore')
