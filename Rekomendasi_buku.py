@@ -5,7 +5,7 @@ import tensorflow as tf
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import time
-from keras.models import load_model
+# from keras.models import load_model
 
 
 # Memuat model
