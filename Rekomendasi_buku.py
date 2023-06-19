@@ -85,12 +85,11 @@ def book_recommendations(judul_buku, similarity_data, items, k=5):
     index = similarity_data.loc[:, judul_buku].to_numpy().argpartition(range(-1, -k, -1))
     closest = similarity_data.columns[index[-1:-(k+2):-1]]
     closest = closest.drop(judul_buku, errors='ignore')
+    
+    items['judul_buku'] = items['judul_buku'].astype(str)
+    closest['judul_buku'] = closest['judul_buku'].astype(str)
 
-    # Lakukan penggabungan berdasarkan kolom 'judul_buku' dan 'judul'
-    merged_df = pd.merge(pd.DataFrame(closest, columns=['judul']), items, left_on='judul_buku', right_on='judul_buku')
-
-    # return pd.DataFrame(closest).merge(items).head(k)
-    return merged_df.head(k)
+    return pd.DataFrame(closest).merge(items).head(k)
 
 def get_user_data(user_id, book_data):
     
