@@ -9,7 +9,7 @@ from keras.models import load_model
 
 
 # Memuat model
-model = tf.keras.models.load_model('./saved_model.pb', compile=False)
+model = tf.keras.models.load_model('save weight', compile=False)
 
 
 Dataset_buku = './data_sets'
