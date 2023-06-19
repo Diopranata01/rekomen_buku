@@ -13,73 +13,73 @@ model = tf.keras.models.load_model('model.h5', compile=True)
 
 Dataset_buku = './data_sets'
 
-def prepare_data():
+# def prepare_data():
     
-    Dataset_buku = './data_sets'
-    with st.spinner('Memuat data...'):
-        time.sleep(3)  # Durasi loading selama 3 detik
-        buku = pd.read_csv(Dataset_buku+'/books.csv')
-        genre_buku = pd.read_csv(Dataset_buku+'/book_tags.csv')
-        ket_genre = pd.read_csv(Dataset_buku+'/tags.csv')
-        user_read = pd.read_csv(Dataset_buku+'/to_read.csv')
-        data_rating = pd.read_csv(Dataset_buku+'/ratings.csv')
+#     Dataset_buku = './data_sets'
+#     with st.spinner('Memuat data...'):
+#         time.sleep(3)  # Durasi loading selama 3 detik
+#         buku = pd.read_csv(Dataset_buku+'/books.csv')
+#         genre_buku = pd.read_csv(Dataset_buku+'/book_tags.csv')
+#         ket_genre = pd.read_csv(Dataset_buku+'/tags.csv')
+#         user_read = pd.read_csv(Dataset_buku+'/to_read.csv')
+#         data_rating = pd.read_csv(Dataset_buku+'/ratings.csv')
 
-    # Menggabungkan seluruh TagID pada kategori buku
-    semua_tag = np.concatenate((
-        genre_buku.tag_id.unique(),
-        ket_genre.tag_id.unique()
-    ))
+#     # Menggabungkan seluruh TagID pada kategori buku
+#     semua_tag = np.concatenate((
+#         genre_buku.tag_id.unique(),
+#         ket_genre.tag_id.unique()
+#     ))
 
-    # Mengurutkan data dan menghapus data yang sama
-    semua_tag = np.sort(np.unique(semua_tag))
+#     # Mengurutkan data dan menghapus data yang sama
+#     semua_tag = np.sort(np.unique(semua_tag))
 
-    print('Jumlah seluruh data genre berdasarkan tag_id:', len(semua_tag))
+#     print('Jumlah seluruh data genre berdasarkan tag_id:', len(semua_tag))
 
-    data_buku = pd.merge(data_rating, buku , on='book_id', how='left')
-    data_buku.isnull().sum()
+#     data_buku = pd.merge(data_rating, buku , on='book_id', how='left')
+#     data_buku.isnull().sum()
 
-    # Menghitung jumlah rating berdasarkan book_id
-    rating_per_book = data_buku.groupby('book_id').sum()
+#     # Menghitung jumlah rating berdasarkan book_id
+#     rating_per_book = data_buku.groupby('book_id').sum()
 
-    all_rating = data_rating
+#     all_rating = data_rating
 
-    # Menggabungkan data rating dengan penulis, judul, dan tahun buku berdasarkan book_id
-    all_book_rating = pd.merge(data_rating, data_buku[['book_id', 'authors', 'title', 'original_publication_year']], on='book_id', how='left')
+#     # Menggabungkan data rating dengan penulis, judul, dan tahun buku berdasarkan book_id
+#     all_book_rating = pd.merge(data_rating, data_buku[['book_id', 'authors', 'title', 'original_publication_year']], on='book_id', how='left')
 
-    # Memeriksa missing value
-    all_book_rating.isnull().sum()
+#     # Memeriksa missing value
+#     all_book_rating.isnull().sum()
 
-    # Menghapus missing value dengan fungsi dropna()
-    book_rating = all_book_rating.dropna()
+#     # Menghapus missing value dengan fungsi dropna()
+#     book_rating = all_book_rating.dropna()
 
-    # Memeriksa kembali Missing Value
-    book_rating.isnull().sum()
+#     # Memeriksa kembali Missing Value
+#     book_rating.isnull().sum()
 
-    # Menghapus data yang sama berdasarkan book id
-    preparation = book_rating.drop_duplicates('book_id')
+#     # Menghapus data yang sama berdasarkan book id
+#     preparation = book_rating.drop_duplicates('book_id')
 
-    # Mengonversi data series menjadi dalam bentuk list
-    book_id = preparation['book_id'].tolist()
-    book_title = preparation['title'].tolist()
-    book_author = preparation['authors'].tolist()
-    book_year = preparation['original_publication_year'].tolist()
+#     # Mengonversi data series menjadi dalam bentuk list
+#     book_id = preparation['book_id'].tolist()
+#     book_title = preparation['title'].tolist()
+#     book_author = preparation['authors'].tolist()
+#     book_year = preparation['original_publication_year'].tolist()
 
-    # Membuat dictionary untuk data 'book_id', 'book_title', 'book_author' dan 'book_year'
-    book_data = pd.DataFrame({
-        'id_buku': book_id,
-        'judul_buku': book_title,
-        'penulis': book_author,
-        'tahun_rilis': book_year
-    })
+#     # Membuat dictionary untuk data 'book_id', 'book_title', 'book_author' dan 'book_year'
+#     book_data = pd.DataFrame({
+#         'id_buku': book_id,
+#         'judul_buku': book_title,
+#         'penulis': book_author,
+#         'tahun_rilis': book_year
+#     })
 
-    tf = TfidfVectorizer()
-    tf.fit(book_data['penulis'])
-    tfidf_matrix = tf.fit_transform(book_data['penulis'])
+#     tf = TfidfVectorizer()
+#     tf.fit(book_data['penulis'])
+#     tfidf_matrix = tf.fit_transform(book_data['penulis'])
 
-    cosine_sim = cosine_similarity(tfidf_matrix)
-    cosine_sim_df = pd.DataFrame(cosine_sim, index=book_data['judul_buku'], columns=book_data['judul_buku'])
+#     cosine_sim = cosine_similarity(tfidf_matrix)
+#     cosine_sim_df = pd.DataFrame(cosine_sim, index=book_data['judul_buku'], columns=book_data['judul_buku'])
 
-    return book_data, cosine_sim_df
+#     return book_data, cosine_sim_df
 
 def book_recommendations(judul_buku, similarity_data, items, k=5):
     index = similarity_data.loc[:, judul_buku].to_numpy().argpartition(range(-1, -k, -1))
@@ -166,7 +166,9 @@ def show_user_recommendations(user_ratings, book_not_read, book_data):
 def main():
     st.title('Sistem Rekomendasi Buku')
 
-    book_data, cosine_sim_df = prepare_data()
+    # book_data, cosine_sim_df = prepare_data()
+    book_data = pd.read_csv('./book_data.csv')
+    cosine_sim_df = pd.read_csv('./cosine_similarity.csv')
 
     judul_buku_input = st.text_input('Masukkan judul buku:')
     rekomendasi_jumlah = st.slider('Jumlah rekomendasi:', 1, 10, 5)
