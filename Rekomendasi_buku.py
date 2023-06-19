@@ -86,7 +86,7 @@ def book_recommendations(judul_buku, similarity_data, items, k=5):
     closest = similarity_data.columns[index[-1:-(k+2):-1]]
     closest = closest.drop(judul_buku, errors='ignore')
 
-    return pd.DataFrame(closest).merge(items).head(k)
+    return pd.DataFrame(closest).merge(items, on='judul_buku').head(k)
 
 def get_user_data(user_id, book_data):
     
