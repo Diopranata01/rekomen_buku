@@ -1,22 +1,22 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+import tensorflow as tf
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import time
-from tensorflow.keras.models import load_model
-from tensorflow.keras.optimizers import Adam
+from keras.models import load_model
 
-# Mendaftarkan custom optimizer
-custom_objects = {'CustomAdam': Adam}
 
-# Memuat model dengan custom optimizer yang terdaftar
-model = load_model('model.keras', custom_objects=custom_objects)
+# Memuat model
+model = load_model('./model.keras')
 
-Dataset_buku = 'data_sets'
+Dataset_buku = './data_sets'
 
-@st.cache
+@st.cache_data
 def prepare_data():
+    
+    Dataset_buku = './data_sets'
     with st.spinner('Memuat data...'):
         time.sleep(3)  # Durasi loading selama 3 detik
         buku = pd.read_csv(Dataset_buku+'/books.csv')
@@ -88,7 +88,10 @@ def book_recommendations(judul_buku, similarity_data, items, k=5):
     closest = closest.drop(judul_buku, errors='ignore')
     return pd.DataFrame(closest).merge(items).head(k)
 
-def get_user_data(user_id, book_data):
+# def get_user_data(user_id, book_data):
+    
+    Dataset_buku = './data_sets'
+
     ratings_data = pd.read_csv(Dataset_buku + '/ratings.csv')
 
     df = ratings_data
@@ -109,13 +112,16 @@ def get_user_data(user_id, book_data):
 
     return user_ratings, book_not_read
 
-def show_user_recommendations(user_ratings, book_not_read, book_data):
+# def show_user_recommendations(user_ratings, book_not_read, book_data):
+    
+    Dataset_buku = './data_sets'
+
     ratings_data = pd.read_csv(Dataset_buku + '/ratings.csv')
 
     df = ratings_data
     id_reader = df['user_id'].unique().tolist()
     id_buku = df['book_id'].unique().tolist()
-
+    
     user_to_user_encoded = {x: i for i, x in enumerate(id_reader)}
     book_encoded_to_book = {i: x for i, x in enumerate(id_buku)}
 
@@ -157,7 +163,6 @@ def show_user_recommendations(user_ratings, book_not_read, book_data):
     for row in recommended_book.itertuples():
         st.write(row.penulis, ':', row.judul_buku)
 
-
 def main():
     st.title('Sistem Rekomendasi Buku')
 
@@ -171,13 +176,15 @@ def main():
         st.write('Rekomendasi Buku:')
         st.dataframe(rekomendasi)
 
-    user_id_input = st.text_input('Masukkan user ID:')
+
+    # user_id_input = st.text_input('Masukkan user ID:')
     
-    if st.button('Tampilkan Rekomendasi User'):
-        user_ratings, book_not_read = get_user_data(int(user_id_input), book_data)
-        show_user_recommendations(user_ratings, book_not_read, book_data)
+    # if st.button('Tampilkan Rekomendasi User'):
+    #     # df = pd.read_csv(Dataset_buku + '/ratings.csv')
+    #     user_ratings, book_not_read = get_user_data(int(user_id_input), book_data)
+    #     show_user_recommendations(user_ratings, book_not_read, book_data)
 
 
-# Memanggil fungsi main saat aplikasi Streamlit dijalankan
+# Memanggil fungsi show_data saat aplikasi Streamlit dijalankan
 if __name__ == '__main__':
     main()
