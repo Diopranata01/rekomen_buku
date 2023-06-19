@@ -10,7 +10,7 @@ from keras.models import load_model
 
 # Memuat model
 with tf.device('/cpu:0'):
-    model = tf.keras.models.load_model('model.h5', compile=False)
+    model = tf.keras.models.load_model('./model.h5', compile=False)
 
 Dataset_buku = './data_sets'
 
