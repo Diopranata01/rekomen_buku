@@ -5,11 +5,11 @@ import tensorflow as tf
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import time
-# from keras.models import load_model
+from keras.models import load_model
 
 
 # Memuat model
-model = tf.keras.models.load_model('model.keras', compile=False)
+model = tf.keras.models.load_model('model.h5', compile=False)
 
 Dataset_buku = './data_sets'
 
