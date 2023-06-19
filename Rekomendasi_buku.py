@@ -9,13 +9,11 @@ from keras.models import load_model
 
 
 # Memuat model
-model = tf.keras.models.load_model('save weight', compile=False)
-
+model = load_model('./model.keras')
 
 Dataset_buku = './data_sets'
 
 # @st.cache_data
-
 def prepare_data():
     
     Dataset_buku = './data_sets'
