@@ -82,11 +82,26 @@ Dataset_buku = './data_sets'
 #     return book_data, cosine_sim_df
 
 def book_recommendations(judul_buku, similarity_data, items, k=5):
+    # Ubah tipe data kolom 'judul_buku' menjadi string
+    items['judul_buku'] = items['judul_buku'].astype(str)
+    similarity_data['judul_buku'] = similarity_data['judul_buku'].astype(str)
+
+    # Hapus spasi tambahan di awal atau akhir string pada kolom 'judul_buku'
+    items['judul_buku'] = items['judul_buku'].str.strip()
+    similarity_data['judul_buku'] = similarity_data['judul_buku'].str.strip()
+
+    # Ubah semua nilai dalam kolom 'judul_buku' menjadi huruf kecil
+    items['judul_buku'] = items['judul_buku'].str.lower()
+    similarity_data['judul_buku'] = similarity_data['judul_buku'].str.lower()
+
+    # Cari indeks buku terkait
     index = similarity_data.loc[:, judul_buku].to_numpy().argpartition(range(-1, -k, -1))
     closest = similarity_data.columns[index[-1:-(k+2):-1]]
     closest = closest.drop(judul_buku, errors='ignore')
 
-    return pd.DataFrame(closest).merge(items).head(k)
+    # Gabungkan dengan DataFrame 'items' berdasarkan kolom 'judul_buku' dan ambil k baris pertama
+    return pd.merge(closest.to_frame(), items, on='judul_buku').head(k)
+
 
 def get_user_data(user_id, book_data):
     
