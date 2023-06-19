@@ -168,8 +168,8 @@ def main():
     st.title('Sistem Rekomendasi Buku')
 
     # book_data, cosine_sim_df = prepare_data()
-    book_data = './book_data.csv'
-    cosine_sim_df = './cosine_similarity.csv'
+    book_data = pd.read_csv('./book_data.csv')
+    cosine_sim_df = pd.read_csv('./cosine_similarity.csv')
 
     judul_buku_input = st.text_input('Masukkan judul buku:')
     rekomendasi_jumlah = st.slider('Jumlah rekomendasi:', 1, 10, 5)
