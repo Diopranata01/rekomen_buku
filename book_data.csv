@@ -1,0 +1,812 @@
+id_buku,judul_buku,penulis,tahun_rilis
+1,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)","J.K. Rowling, Mary GrandPré",2005.0
+2,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)","J.K. Rowling, Mary GrandPré",2003.0
+3,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)","J.K. Rowling, Mary GrandPré",1997.0
+5,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)","J.K. Rowling, Mary GrandPré, Rufus Beck",1999.0
+6,"Harry Potter and the Goblet of Fire (Harry Potter, #4)","J.K. Rowling, Mary GrandPré",2000.0
+8,"Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5)","J.K. Rowling, Mary GrandPré",2003.0
+10,"Harry Potter Collection (Harry Potter, #1-6)",J.K. Rowling,2005.0
+11,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,1979.0
+13,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,1996.0
+21,A Short History of Nearly Everything,Bill Bryson,2003.0
+24,In a Sunburned Country,Bill Bryson,2000.0
+25,I'm a Stranger Here Myself: Notes on Returning to America after Twenty Years Away,Bill Bryson,1998.0
+26,The Lost Continent: Travels in Small Town America,Bill Bryson,1989.0
+27,Neither Here nor There: Travels in Europe,Bill Bryson,1991.0
+28,Notes from a Small Island,Bill Bryson,1995.0
+29,The Mother Tongue: English and How It Got That Way,Bill Bryson,1990.0
+30,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,1973.0
+33,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien,1955.0
+34,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,1954.0
+50,"Hatchet (Brian's Saga, #1)",Gary Paulsen,1986.0
+67,The Known World,Edward P. Jones,2003.0
+93,Heidi,"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary",1880.0
+98,What to Expect the First Year (What to Expect),"Heidi Murkoff, Sharon Mazel, Heidi Murkoff, Arlene Eisenberg, Sandee Hathaway, Mark D. Widome",1989.0
+105,Chapterhouse: Dune (Dune Chronicles #6),Frank Herbert,1985.0
+106,Dune Messiah (Dune Chronicles #2),Frank Herbert,1969.0
+112,Children of Dune (Dune Chronicles #3),Frank Herbert,1976.0
+117,Heretics of Dune (Dune Chronicles #5),Frank Herbert,1984.0
+119,The Lord of the Rings: The Art of The Fellowship of the Ring,Gary Russell,2002.0
+122,"The Power of One (The Power of One, #1)",Bryce Courtenay,1989.0
+231,I am Charlotte Simmons,Tom Wolfe,2004.0
+249,Tropic of Cancer,Henry Miller,1934.0
+250,Tropic of Capricorn,Henry Miller,1938.0
+264,The Portrait of a Lady,"Henry James, Patricia Crick",1881.0
+275,The Lover,"Marguerite Duras, Barbara Bray, Maxine Hong Kingston",1984.0
+291,The Broken Wings,"Kahlil Gibran, Anthony R. Ferris",1912.0
+295,Treasure Island,Robert Louis Stevenson,1882.0
+304,Daniel Deronda,"George Eliot, Edmund White",1876.0
+320,One Hundred Years of Solitude,"Gabriel García Márquez, Gregory Rabassa",1967.0
+343,Perfume: The Story of a Murderer,"Patrick Süskind, John E. Woods",1985.0
+348,The Door Into Summer,Robert A. Heinlein,1957.0
+350,Stranger in a Strange Land,Robert A. Heinlein,1961.0
+353,Time Enough for Love,Robert A. Heinlein,1973.0
+355,Job: A Comedy of Justice,Robert A. Heinlein,1984.0
+357,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",Douglas Adams,1988.0
+359,"The Salmon of Doubt (Dirk Gently, #3)",Douglas Adams,2002.0
+360,"Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)",Douglas Adams,1992.0
+365,Dirk Gently's Holistic Detective Agency (Dirk Gently #1),Douglas Adams,1987.0
+378,The Phantom Tollbooth,"Norton Juster, Jules Feiffer",1961.0
+386,Another Bullshit Night in Suck City,Nick Flynn,2004.0
+400,Libra,Don DeLillo,1988.0
+415,Gravity's Rainbow,Thomas Pynchon,1973.0
+424,Slouching Towards Bethlehem,Joan Didion,1968.0
+428,Play It as It Lays,"Joan Didion, David Thomson",1970.0
+431,The New York Trilogy,"Paul Auster, Art Spiegelman",1987.0
+432,"City of Glass (The New York Trilogy, #1)",Paul Auster,1985.0
+446,The Brooklyn Follies,Paul Auster,2005.0
+447,Moon Palace,Paul Auster,1989.0
+449,Timbuktu,Paul Auster,1999.0
+456,Leviathan,Paul Auster,1992.0
+475,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,2004.0
+597,Killing Yourself to Live: 85% of a True Story,Chuck Klosterman,2005.0
+599,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",Chuck Klosterman,2003.0
+621,The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich,David Bach,2003.0
+629,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,1974.0
+647,No Logo,Naomi Klein,1999.0
+656,War and Peace,"Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude",1869.0
+662,Atlas Shrugged,"Ayn Rand, Leonard Peikoff",1957.0
+665,The Virtue of Selfishness: A New Concept of Egoism,"Ayn Rand, Nathaniel Branden",1961.0
+667,Anthem,Ayn Rand,1938.0
+668,We the Living,"Ayn Rand, Leonard Peikoff",1936.0
+676,Sailing Alone Around the Room: New and Selected Poems,Billy Collins,2001.0
+698,Digging to America,Anne Tyler,2006.0
+703,The Plot Against America,Philip Roth,2004.0
+706,America (The Book): A Citizen's Guide to Democracy Inaction,"Jon Stewart, Ben Karlin, David Javerbaum, Rich Bloomquist, Steve Bodow, Tim Carvell, Eric Drysdale, J.R. Havlan, Scott Jacobson, Tom Johnson, Rob Kutner, Chris Regan, Jason Reich, Jason Ross, Stephen Colbert, Samantha Bee, Rob Corddry, Brendan Hay, Ed Helms",2004.0
+760,Memories of My Melancholy Whores,"Gabriel García Márquez, Edith Grossman",2004.0
+771,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1999.0
+816,Cryptonomicon,Neal Stephenson,1999.0
+822,"The Confusion (The Baroque Cycle, #2)",Neal Stephenson,2004.0
+823,"Quicksilver (The Baroque Cycle, #1)",Neal Stephenson,2003.0
+825,Zodiac,Neal Stephenson,1988.0
+827,"The Diamond Age: or, A Young Lady's Illustrated Primer",Neal Stephenson,1995.0
+830,Snow Crash,Neal Stephenson,1992.0
+840,The Design of Everyday Things,Donald A. Norman,1988.0
+865,The Alchemist,"Paulo Coelho, Alan R. Clarke",1988.0
+870,"Fullmetal Alchemist, Vol. 1 (Fullmetal Alchemist, #1)","Hiromu Arakawa, Akira Watanabe",2002.0
+880,Pompeii,Robert   Harris,2003.0
+890,Of Mice and Men,John Steinbeck,1937.0
+900,The Game: Penetrating the Secret Society of Pickup Artists,Neil Strauss,2005.0
+902,The Westing Game,Ellen Raskin,1978.0
+903,"The Egypt Game (Game, #1)",Zilpha Keatley Snyder,1967.0
+930,Memoirs of a Geisha,Arthur Golden,1997.0
+952,The Five Love Languages of Children,"Gary Chapman, D. Ross Campbell",1995.0
+960,"Angels & Demons  (Robert Langdon, #1)",Dan Brown,2000.0
+968,"The Da Vinci Code (Robert Langdon, #2)",Dan Brown,2003.0
+976,Deception Point,Dan Brown,2001.0
+998,The Millionaire Next Door: The Surprising Secrets of Americas Wealthy,"Thomas J. Stanley, William D. Danko",1995.0
+1005,Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century,Napoleon Hill,1937.0
+1032,Trump: The Art of the Deal,"Donald J. Trump, Tony Schwartz",1987.0
+1052,The Richest Man in Babylon,George S. Clason,1926.0
+1067,1776,David McCullough,2005.0
+1078,"The Good Earth (House of Earth, #1)",Pearl S. Buck,1931.0
+1097,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,2001.0
+1103,Snow Flower and the Secret Fan,Lisa See,2005.0
+1110,The Broker,John Grisham,2005.0
+1171,Liar's Poker,Michael   Lewis,1989.0
+1191,Giada's Family Dinners,"Giada De Laurentiis, Victoria Pearson",2006.0
+1192,Everyday Italian: 125 Simple and Delicious Recipes,Giada De Laurentiis,2005.0
+1202,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)","Steven D. Levitt, Stephen J. Dubner",2005.0
+1232,"The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)","Carlos Ruiz Zafón, Lucia Graves",2001.0
+1241,A Million Little Pieces,James Frey,2003.0
+1274,"Men Are from Mars, Women Are from Venus",John Gray,1998.0
+1295,"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel,1980.0
+1301,Moneyball: The Art of Winning an Unfair Game,Michael   Lewis,2003.0
+1303,The 48 Laws of Power,"Robert Greene, Joost Elffers",1988.0
+1305,Gates of Fire: An Epic Novel of the Battle of Thermopylae,Steven Pressfield,1998.0
+1307,"Fire Sea (The Death Gate Cycle, #3)","Margaret Weis, Tracy Hickman",1991.0
+1319,The War of Art: Break Through the Blocks & Win Your Inner Creative Battles,"Steven Pressfield, Robert McKee",2002.0
+1362,The Histories,"Herodotus, Aubrey de Sélincourt, John M. Marincola",-440.0
+1371,The Iliad,"Homer, Robert Fagles, Frédéric Mugler, Bernard Knox",-750.0
+1375,The Iliad/The Odyssey,"Homer, Robert Fagles, Bernard Knox",-762.0
+1381,The Odyssey,"Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox",-720.0
+1420,Hamlet,"William Shakespeare, Richard Andrews, Rex Gibson",1600.0
+1426,Warrior of the Light,Paulo Coelho,1997.0
+1427,The Zahir,"Paulo Coelho, Margaret Jull Costa",2005.0
+1428,By the River Piedra I Sat Down and Wept,"Paulo Coelho, Alan R. Clarke",1994.0
+1430,Eleven Minutes,"Paulo Coelho, Margaret Jull Costa",2003.0
+1431,Veronika Decides to Die,"Paulo Coelho, Margaret Jull Costa",1998.0
+1519,"The Oresteia  (Ορέστεια, #1-3)","Aeschylus, Robert Fagles, William Bedell Stanford",-458.0
+1524,"Agamemnon (Oresteia, #1)","Aeschylus, Judith Affleck, Philip de May, Patricia E. Easterling, John     Harrison",-458.0
+1540,"The Oedipus Cycle: Oedipus Rex/Oedipus at Colonus/Antigone (The Theban Plays, #1–3)","Sophocles, Dudley Fitts, Elena Bono, Robert Fitzgerald",-401.0
+1554,"Oedipus Rex  (The Theban Plays, #1)","Sophocles, J.E. Thomas",-430.0
+1591,Lysistrata,"Aristophanes, Sarah Ruden",-411.0
+1617,Night (The Night Trilogy #1),"Elie Wiesel, Marion Wiesel",1958.0
+1618,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2003.0
+1622,A Midsummer Night's Dream,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Catherine Belsey",1595.0
+1624,West with the Night,Beryl Markham,1942.0
+1625,Twelfth Night,William Shakespeare,1601.0
+1627,Brokeback Mountain,Annie Proulx,1997.0
+1633,Getting Things Done: The Art of Stress-Free Productivity,David    Allen,2001.0
+1635,Execution: The Discipline of Getting Things Done,"Larry Bossidy, Ram Charan, Charles Burck",2009.0
+1715,Metamorphoses,"Ovid, David Raeburn, Denis Feeney",8.0
+1823,Them: Adventures with Extremists,Jon Ronson,2001.0
+1824,The Men Who Stare at Goats,Jon Ronson,2004.0
+1842,"Guns, Germs, and Steel: The Fates of Human Societies",Jared Diamond,1997.0
+1845,Into the Wild,Jon Krakauer,1996.0
+1846,Wild at Heart: Discovering the Secret of a Man's Soul,John Eldredge,2001.0
+1848,Wild Swans: Three Daughters of China,Jung Chang,1991.0
+1849,"Wild Fire (John Corey, #4)",Nelson DeMille,2006.0
+1852,The Call of the Wild,Jack London,1903.0
+1869,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,2001.0
+1875,"The History of Sexuality, Volume 1: An Introduction","Michel Foucault, Robert Hurley",1976.0
+1885,Pride and Prejudice,Jane Austen,1813.0
+1897,Eiger Dreams: Ventures Among Men and Mountains,Jon Krakauer,1990.0
+1898,Into Thin Air: A Personal Account of the Mount Everest Disaster,Jon Krakauer,1997.0
+1911,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,2005.0
+1934,"Little Women (Little Women, #1)",Louisa May Alcott,1868.0
+1953,A Tale of Two Cities,"Charles Dickens, Richard Maxwell, Hablot Knight Browne",1859.0
+1990,Martin Chuzzlewit,"Charles Dickens, Patricia Ingham, Hablot Knight Browne",1844.0
+2002,Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry,J.K. Rowling,2001.0
+2049,"The High Window (Philip Marlowe, #3)",Raymond Chandler,1942.0
+2050,"Farewell, My Lovely (Philip Marlowe, #2)",Raymond Chandler,1940.0
+2052,"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,1939.0
+2054,"The Long Goodbye (Philip Marlowe, #6)",Raymond Chandler,1953.0
+2067,Breaking the Spell: Religion as a Natural Phenomenon,Daniel C. Dennett,2006.0
+2068,Darwin's Dangerous Idea: Evolution and the Meanings of Life,Daniel C. Dennett,1995.0
+2094,A Briefer History of Time,"Stephen Hawking, Leonard Mlodinow",2005.0
+2095,The Universe in a Nutshell,Stephen Hawking,2001.0
+2122,The Fountainhead,"Ayn Rand, Leonard Peikoff",1943.0
+2137,A Home at the End of the World,Michael Cunningham,1990.0
+2142,Blink,Ted Dekker,2002.0
+2152,The Jane Austen Book Club,Karen Joy Fowler,2004.0
+2156,Persuasion,"Jane Austen, James Kinsley, Deidre Shauna Lynch",1817.0
+2159,Confessions of an Economic Hit Man,John Perkins,2004.0
+2165,The Old Man and the Sea,Ernest Hemingway,1952.0
+2175,Madame Bovary,"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall",1856.0
+2183,Sentimental Education,"Gustave Flaubert, Robert Baldick, Geoffrey Wall",1869.0
+2187,Middlesex,Jeffrey Eugenides,2002.0
+2199,Team of Rivals: The Political Genius of Abraham Lincoln,"Doris Kearns Goodwin, Suzanne Toren",2005.0
+2203,John Adams,David McCullough,2001.0
+2255,Way of the Peaceful Warrior: A Book That Changes Lives,Dan Millman,1980.0
+2265,It's Not About the Bike: My Journey Back to Life,"Lance Armstrong, Sally Jenkins",1999.0
+2279,Truman,David McCullough,1992.0
+2368,Mornings on Horseback,David McCullough,1981.0
+2371,The Johnstown Flood,David McCullough,1968.0
+2372,"The Path Between the Seas: The Creation of the Panama Canal, 1870-1914",David McCullough,1977.0
+2373,"The Bone Collector (Lincoln Rhyme, #1)",Jeffery Deaver,1997.0
+2430,The List,Steve Martini,1997.0
+2442,"Witches Abroad (Discworld, #12; Witches #3)",Terry Pratchett,1991.0
+2493,The Time Machine,"H.G. Wells, Greg Bear, Carlo Pagetti",1895.0
+2517,My Name is Red,"Orhan Pamuk, Erdağ M. Göknar",1998.0
+2526,Blindness,"José Saramago, Giovanni Pontiero",1995.0
+2528,All the Names,"José Saramago, Margaret Jull Costa",1997.0
+2530,Baltasar and Blimunda,"José Saramago, Giovanni Pontiero",1982.0
+2547,The Prophet,Kahlil Gibran,1923.0
+2612,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000.0
+2615,The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business (Collins Business Essentials),Clayton M. Christensen,1997.0
+2623,Great Expectations,Charles Dickens,1860.0
+2657,To Kill a Mockingbird,Harper Lee,1960.0
+2666,The Bonfire of the Vanities,Tom Wolfe,1987.0
+2677,A Modest Proposal and Other Satirical Works,Jonathan Swift,1729.0
+2696,The Canterbury Tales,"Geoffrey Chaucer, Nevill Coghill",1390.0
+2715,Salt: A World History,Mark Kurlansky,2002.0
+2743,The Lost Boy (Dave Pelzer #2),Dave Pelzer,1997.0
+2744,Anansi Boys,Neil Gaiman,2005.0
+2748,Microserfs,Douglas Coupland,1995.0
+2767,A People's History of the United States,Howard Zinn,1980.0
+2784,Ways of Seeing,John Berger,1972.0
+2794,The Crying of Lot 49,Thomas Pynchon,1966.0
+2839,Bridge to Terabithia,Katherine Paterson,1977.0
+2865,Girl with a Pearl Earring,Tracy Chevalier,1999.0
+2872,Falling Angels,Tracy Chevalier,2001.0
+2873,The Virgin Blue,Tracy Chevalier,1997.0
+2879,"Bleach, Volume 15",Tite Kubo,2004.0
+2880,"Bleach, Volume 01",Tite Kubo,2002.0
+2915,"The River (Brian's Saga, #2)",Gary Paulsen,1991.0
+2932,Robinson Crusoe,"Daniel Defoe, Gerald McCann, Virginia Woolf",1719.0
+2956,The Adventures of Huckleberry Finn,"Mark Twain, John Seelye, Guy Cardwell",1884.0
+2978,Lost Horizon,James Hilton,1933.0
+2998,The Secret Garden,Frances Hodgson Burnett,1911.0
+3008,A Little Princess,"Frances Hodgson Burnett, Nancy Bond",1905.0
+3028,Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics,Henry Hazlitt,1946.0
+3049,Sir Gawain and the Green Knight ,"Unknown, Burton Raffel, Neil D. Isaacs",1390.0
+3061,The Natural Way to Draw,"Kimon Nicolaides, Mamie Harmon",1941.0
+3087,A Room with a View,E.M. Forster,1908.0
+3102,Howards End,E.M. Forster,1910.0
+3103,Maurice,E.M. Forster,1971.0
+3109,The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,2006.0
+3110,Assassination Vacation,Sarah Vowell,2005.0
+3273,Moloka'i,Alan Brennert,2003.0
+3291,The Stories of Eva Luna,Isabel Allende,1988.0
+3300,Inés of My Soul,"Isabel Allende, Margaret Sayers Peden",2006.0
+3304,"City of the Beasts (Eagle and Jaguar, #1)","Isabel Allende, Margaret Sayers Peden",2002.0
+3368,Don't Make Me Think: A Common Sense Approach to Web Usability,Steve Krug,2000.0
+3378,Generation X: Tales for an Accelerated Culture,Douglas Coupland,1991.0
+3379,All Families are Psychotic,Douglas Coupland,2001.0
+3381,Hey Nostradamus!,Douglas Coupland,2003.0
+3384,Girlfriend in a Coma,Douglas Coupland,1998.0
+3388,Corelli's Mandolin,Louis de Bernières,1994.0
+3412,The Thorn Birds,Colleen McCullough,1977.0
+3431,The Five People You Meet in Heaven,Mitch Albom,2003.0
+3446,Going After Cacciato,Tim O'Brien,1978.0
+3447,In the Lake of the Woods,Tim O'Brien,1994.0
+3462,The Rescue,Nicholas Sparks,2000.0
+3463,A Bend in the Road,Nicholas Sparks,2001.0
+3464,"True Believer (Jeremy Marsh & Lexie Darnell, #1)",Nicholas Sparks,2003.0
+3465,Three Weeks With My Brother,"Nicholas Sparks, Micah Sparks",2004.0
+3466,"The Wedding (The Notebook, #2)",Nicholas Sparks,2003.0
+3467,"The People of Sparks (Book of Ember, #2)",Jeanne DuPrau,2004.0
+3473,A Walk to Remember,Nicholas Sparks,1999.0
+3476,Icy Sparks,Gwyn Hyman Rubio,1998.0
+3478,Message in a Bottle,Nicholas Sparks,1998.0
+3483,Special Topics in Calamity Physics,Marisha Pessl,2006.0
+3507,"Twelve Sharp (Stephanie Plum, #12)",Janet Evanovich,2006.0
+3559,From Beirut to Jerusalem,Thomas L. Friedman,1989.0
+3562,"Emily of New Moon (Emily, #1)",L.M. Montgomery,1923.0
+3579,"The Complete Anne of Green Gables Boxed Set (Anne of Green Gables, #1-8)",L.M. Montgomery,1908.0
+3581,"Sherlock Holmes: The Complete Novels and Stories, Volume I",Arthur Conan Doyle,1927.0
+3586,"The Complete Sherlock Holmes, Vol 2","Arthur Conan Doyle, Kyle Freeman",1914.0
+3590,The Adventures of Sherlock Holmes,Arthur Conan Doyle,1892.0
+3636,"The Giver (The Giver, #1)",Lois Lowry,1993.0
+3648,The Emperor's Children,Claire Messud,2006.0
+3656,The Sea,John Banville,2005.0
+3679,On Beauty,Zadie Smith,2005.0
+3682,"A Great and Terrible Beauty (Gemma Doyle, #1)",Libba Bray,2003.0
+3685,Black Beauty,Anna Sewell,1877.0
+3686,Truth and Beauty,Ann Patchett,2004.0
+3690,The Power and the Glory,"Graham Greene, John Updike",1940.0
+3692,The Heart of the Matter,Graham Greene,1948.0
+3698,The Quiet American,"Graham Greene, Robert  Stone",1955.0
+3710,The Autograph Man,Zadie Smith,2002.0
+3711,White Teeth,Zadie Smith,1999.0
+3717,Stranger than Fiction,Chuck Palahniuk,2004.0
+3750,"Moonraker (James Bond, #3)",Ian Fleming,1955.0
+3757,"Doctor No (James Bond, #6)",Ian Fleming,1958.0
+3758,"Casino Royale (James Bond, #1)",Ian Fleming,1953.0
+3759,"Goldfinger (James Bond, #7)",Ian Fleming,1959.0
+3760,"Diamonds Are Forever (James Bond, #4)",Ian Fleming,1956.0
+3762,"On Her Majesty's Secret Service (James Bond, #11)",Ian Fleming,1963.0
+3763,"Live and Let Die (James Bond, #2)",Ian Fleming,1954.0
+3764,"From Russia With Love (James Bond, #5)",Ian Fleming,1957.0
+3805,The Corrections,Jonathan Franzen,2001.0
+3832,Cover Her Face (Adam Dalgliesh #1),P.D. James,1962.0
+3836,Don Quixote,"Miguel de Cervantes Saavedra, Roberto González Echevarría, John Rutherford",1605.0
+3858,Holy Cow: An Indian Adventure,Sarah Macdonald,2002.0
+3867,The History of Love,Nicole Krauss,2005.0
+3869,A Brief History of Time,"Stephen Hawking, Cao Chi, Phạm Văn Thiều",1987.0
+3872,A History of the World in 6 Glasses,Tom Standage,2005.0
+3873,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",Karen Armstrong,1975.0
+3876,The Sun Also Rises,Ernest Hemingway,1926.0
+3882,Rachael Ray 365: No Repeats: A Year of Deliciously Different Dinners,Rachael Ray,2005.0
+3885,The Taste of Home Cookbook,"Janet Briggs, Beth Wittlinger",2006.0
+3888,The America's Test Kitchen Family Cookbook,"America's Test Kitchen, Carl Tremblay, Daniel J. Van Ackere",2005.0
+3895,The Barefoot Contessa Cookbook,"Ina Garten, Melanie Acevedo",1999.0
+3972,"Olympos (Ilium, #2)",Dan Simmons,2005.0
+3973,"Ilium (Ilium, #1)",Dan Simmons,2003.0
+3974,The Terror,Dan Simmons,2007.0
+3977,"Endymion (Hyperion Cantos, #3)",Dan Simmons,1996.0
+3980,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,1967.0
+3985,The Amazing Adventures of Kavalier & Clay,Michael Chabon,2000.0
+4004,The Pilgrimage,"Paulo Coelho, Alan R. Clarke",1987.0
+4005,The Fifth Mountain,Paulo Coelho,1996.0
+4006,The Valkyries,"Paulo Coelho, Alan R. Clarke",1988.0
+4008,"The Devil and Miss Prym (On the Seventh Day, #3)","Paulo Coelho, Amanda Hopkinson, Nick Caistor",2000.0
+4009,Nine Stories,J.D. Salinger,1953.0
+4031,Lunar Park,Bret Easton Ellis,2005.0
+4035,The Burden of Proof,Scott Turow,1990.0
+4069,Man's Search for Meaning,Viktor E. Frankl,1946.0
+4076,In Search of Excellence: Lessons from America's Best-Run Companies,"Tom Peters, Robert H. Waterman Jr.",1982.0
+4099,The Pragmatic Programmer: From Journeyman to Master,"Andrew Hunt, Dave Thomas",1999.0
+4122,Built to Last: Successful Habits of Visionary Companies,"James C. Collins, Jerry I. Porras",1994.0
+4135,I Like You: Hospitality Under the Influence,Amy Sedaris,2006.0
+4136,Holidays on Ice,David Sedaris,1997.0
+4137,Me Talk Pretty One Day,David Sedaris,2000.0
+4138,Naked,David Sedaris,1997.0
+4143,Barrel Fever: Stories and Essays,David Sedaris,1994.0
+4214,Life of Pi,Yann Martel,2001.0
+4261,Songbook,Nick Hornby,2003.0
+4264,Fever Pitch,Nick Hornby,1992.0
+4268,How to Be Good,Nick Hornby,2001.0
+4271,About a Boy,Nick Hornby,1998.0
+4325,Dreamland,Sarah Dessen,2000.0
+4339,Dispatches,Michael Herr,1977.0
+4364,Maximum City: Bombay Lost and Found,Suketu Mehta,2004.0
+4373,First They Killed My Father: A Daughter of Cambodia Remembers,Loung Ung,2000.0
+4381,Fahrenheit 451,Ray Bradbury,1953.0
+4395,The Grapes of Wrath,John Steinbeck,1939.0
+4406,East of Eden,John Steinbeck,1952.0
+4407,"American Gods (American Gods, #1)",Neil Gaiman,2001.0
+4473,A Prayer for Owen Meany,John Irving,1989.0
+4477,Complications: A Surgeon's Notes on an Imperfect Science,"Atul Gawande, Susanne Kuhlmann-Krieg",2002.0
+4507,Sickened: The Memoir of a Munchausen by Proxy Childhood,Julie Gregory,2003.0
+4516,Marina,Carlos Ruiz Zafón,1999.0
+4530,Olivia Joules and the Overactive Imagination,Helen Fielding,2003.0
+4538,The View from Saturday,E.L. Konigsburg,1996.0
+4588,Extremely Loud and Incredibly Close,Jonathan Safran Foer,2005.0
+4591,Genome: the Autobiography of a Species in 23 Chapters,Matt Ridley,1999.0
+4599,Carter Beats the Devil,Glen David Gold,2001.0
+4600,"Moo, Baa, La La La!",Sandra Boynton,1982.0
+4625,The Complete Short Stories,Ernest Hemingway,1925.0
+4630,To Have and Have Not,Ernest Hemingway,1937.0
+4631,A Moveable Feast,Ernest Hemingway,1964.0
+4633,Islands in the Stream,Ernest Hemingway,1970.0
+4645,The Snows of Kilimanjaro and Other Stories,Ernest Hemingway,1938.0
+4652,In Our Time,Ernest Hemingway,1925.0
+4656,The Fourth Hand,John Irving,2001.0
+4657,The Water-Method Man,John Irving,1972.0
+4659,A Widow for One Year,John Irving,1998.0
+4660,The 158-Pound Marriage,John Irving,1974.0
+4662,The Short Stories,"F. Scott Fitzgerald, Matthew J. Bruccoli",1920.0
+4671,The Great Gatsby,F. Scott Fitzgerald,1925.0
+4687,The Cider House Rules,John Irving,1985.0
+4692,"The Physician (Cole Family Trilogy, #1)",Noah Gordon,1986.0
+4701,A Spot of Bother,Mark Haddon,2006.0
+4708,The Beautiful and Damned,F. Scott Fitzgerald,1922.0
+4796,The Winter of Our Discontent,"John Steinbeck, Susan Shillinglaw",1961.0
+4799,Cannery Row,John Steinbeck,1945.0
+4806,Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time,"Dava Sobel, Neil Armstrong",1995.0
+4813,1421: The Year China Discovered America,Gavin Menzies,2002.0
+4820,"Mayflower: A Story of Courage, Community, and War",Nathaniel Philbrick,2006.0
+4830,Shalimar the Clown,Salman Rushdie,2005.0
+4835,"Haroun and the Sea of Stories (Khalifa Brothers, #1)","Salman Rushdie, Paul Birkbeck",1990.0
+4865,How to Win Friends and Influence People,Dale Carnegie,1936.0
+4866,How to Stop Worrying and Start Living,Dale Carnegie,1944.0
+4887,The Drama of the Gifted Child: The Search for the True Self,"Alice  Miller, Ruth Ward",1979.0
+4894,Who Moved My Cheese?,"Spencer Johnson, Kenneth H. Blanchard",1998.0
+4898,Blue Ocean Strategy: How To Create Uncontested Market Space And Make The Competition Irrelevant,"W. Chan Kim, Renée Mauborgne",2004.0
+4900,Heart of Darkness,Joseph Conrad,1899.0
+4909,"Teacher Man (Frank McCourt, #3)",Frank McCourt,2005.0
+4912,"'Tis (Frank McCourt, #2)",Frank McCourt,1999.0
+4921,"Three Men in a Boat (Three Men, #1)",Jerome K. Jerome,1889.0
+4929,Kafka on the Shore,"Haruki Murakami, Philip Gabriel",2002.0
+4934,The Brothers Karamazov,"Fyodor Dostoyevsky, Richard Pevear, Larissa Volokhonsky",1880.0
+4948,The Very Hungry Caterpillar Board Book,Eric Carle,1969.0
+4950,The Hungry Tide,Amitav Ghosh,2004.0
+4952,What Is the What,Dave Eggers,2006.0
+4953,A Heartbreaking Work of Staggering Genius,Dave Eggers,2000.0
+4954,You Shall Know Our Velocity!,Dave Eggers,2002.0
+4955,How We Are Hungry,Dave Eggers,2005.0
+4965,Year of Wonders,Geraldine Brooks,2001.0
+4978,"Wolves of the Calla (The Dark Tower, #5)","Stephen King, Bernie Wrightson",2003.0
+4979,A Man Without a Country,Kurt Vonnegut Jr.,2005.0
+4980,Breakfast of Champions,Kurt Vonnegut Jr.,1973.0
+4981,Slaughterhouse-Five,Kurt Vonnegut Jr.,1969.0
+4982,The Sirens of Titan,Kurt Vonnegut Jr.,1959.0
+4983,Kurt Vonnegut's Cat's Cradle (Modern Critical Interpretations),"Harold Bloom, Terry Southern, David H. Goldsmith, James Lundquist, Lawrence R. Broer, Peter J. Reed, Loree Rackstraw, William S. Doxey, Jerome Klinkowitz, Richard Giannone, John L. Simons, Leonard Mustazza, Zoltan Ab di-Nagy, Peter Freese, Wendy B. Faris",2002.0
+4984,Bagombo Snuff Box,Kurt Vonnegut Jr.,1999.0
+4985,Welcome to the Monkey House,Kurt Vonnegut Jr.,1968.0
+4986,"God Bless You, Dr. Kevorkian",Kurt Vonnegut Jr.,1999.0
+4987,Jailbird,Kurt Vonnegut Jr.,1979.0
+4989,The Red Tent,Anita Diamant,1997.0
+5015,Saturday,Ian McEwan,2005.0
+5038,"The Pillars of Creation (Sword of Truth, #7)",Terry Goodkind,2001.0
+5043,"The Pillars of the Earth (The Kingsbridge Series, #1)",Ken Follett,1989.0
+5052,Code to Zero,Ken Follett,2000.0
+5053,The Man From St. Petersburg,Ken Follett,1982.0
+5055,Night Over Water,Ken Follett,1991.0
+5062,Jackdaws,Ken Follett,2001.0
+5064,"World Without End (The Kingsbridge Series, #2)",Ken Follett,2007.0
+5068,Last Orders,Graham Swift,1996.0
+5084,My Life in France,"Julia Child, Alex Prud'Homme",2006.0
+5091,"The Dark Tower (The Dark Tower, #7)",Stephen King,2004.0
+5093,"Song of Susannah (The Dark Tower, #6)","Stephen King, Darrel Anderson",2004.0
+5094,"The Drawing of the Three (The Dark Tower, #2)",Stephen King,1987.0
+5096,"Wizard and Glass (The Dark Tower, #4)","Stephen King, Dave McKean",1997.0
+5107,The Catcher in the Rye,J.D. Salinger,1951.0
+5113,Franny and Zooey,J.D. Salinger,1961.0
+5114,"Raise High the Roof Beam, Carpenters & Seymour: An Introduction",J.D. Salinger,1955.0
+5128,The Doors of Perception & Heaven and Hell,Aldous Huxley,1956.0
+5129,Brave New World,Aldous Huxley,1932.0
+5130,Island,Aldous Huxley,1962.0
+5139,"The Devil Wears Prada (The Devil Wears Prada, #1)",Lauren Weisberger,2003.0
+5148,A Separate Peace,John Knowles,1959.0
+5157,Black and Blue,Anna Quindlen,1998.0
+5158,A Virtuous Woman,Kaye Gibbons,1989.0
+5159,Here on Earth,Alice Hoffman,1997.0
+5160,The Heart of a Woman,Maya Angelou,1981.0
+5161,"The Deep End of the Ocean (Cappadora Family, #1)",Jacquelyn Mitchard,1996.0
+5166,Midwives,Chris Bohjalian,1997.0
+5167,Cane River,Lalita Tademy,2001.0
+5168,Where the Heart Is,Billie Letts,1995.0
+5171,Drowning Ruth,Christina Schwarz,2000.0
+5174,Fall on Your Knees,Ann-Marie MacDonald,1996.0
+5175,"What Looks Like Crazy on an Ordinary Day (Idlewild, #1)",Pearl Cleage,1997.0
+5176,While I Was Gone,Sue Miller,1998.0
+5179,Mother of Pearl,Melinda Haynes,1999.0
+5180,The Rapture of Canaan,Sheri Reynolds,1995.0
+5181,Jewel,Bret Lott,1991.0
+5182,Songs in Ordinary Time,Mary McGarry Morris,1995.0
+5186,"Breath, Eyes, Memory",Edwidge Danticat,1994.0
+5187,The Book of Ruth,Jane Hamilton,1988.0
+5190,Open House,Elizabeth Berg,2000.0
+5191,The Pilot's Wife,Anita Shreve,1998.0
+5196,Tara Road,Maeve Binchy,1998.0
+5197,A Lesson Before Dying,Ernest J. Gaines,1993.0
+5198,Paradise,Toni Morrison,1997.0
+5203,She's Come Undone,Wally Lamb,1992.0
+5204,We Were the Mulvaneys,Joyce Carol Oates,1996.0
+5205,A Map of the World,"Jane Hamilton, Frank  Muller, C.J. Critt",1992.0
+5211,A Fine Balance,Rohinton Mistry,1996.0
+5246,Ethan Frome,Edith Wharton,1911.0
+5289,Complete Works of Oscar Wilde,"Oscar Wilde, Merlin Holland",1908.0
+5296,An Ideal Husband,Oscar Wilde,1893.0
+5297,The Picture of Dorian Gray,"Oscar Wilde, Jeffrey Eugenides",1891.0
+5306,Travels with Charley: In Search of America,John Steinbeck,1962.0
+5308,The Pearl,John Steinbeck,1947.0
+5326,A Christmas Carol,Charles Dickens,1843.0
+5338,A Christmas Carol and Other Christmas Writings,"Charles Dickens, Michael Slater",1843.0
+5344,Hard Times,Charles Dickens,1854.0
+5345,The Innocent Man: Murder and Injustice in a Small Town,John Grisham,2006.0
+5346,The Last Juror,John Grisham,2004.0
+5347,Bleachers,John Grisham,2003.0
+5348,The Testament,John Grisham,1999.0
+5349,The Rainmaker,John Grisham,1995.0
+5350,The Partner,John Grisham,1997.0
+5351,The Street Lawyer,John Grisham,1998.0
+5352,The Summons,John Grisham,2002.0
+5354,The Brethren,John Grisham,2000.0
+5355,The Chamber,John Grisham,1994.0
+5356,The King of Torts,John Grisham,2003.0
+5357,Skipping Christmas,John Grisham,2001.0
+5358,"The Firm (Penguin Readers, Level 5)",John Grisham,1991.0
+5359,The Client,John Grisham,1993.0
+5360,A Painted House,John Grisham,2001.0
+5364,"Dragonfly in Amber (Outlander, #2)",Diana Gabaldon,1992.0
+5367,"The Great Book of Amber (The Chronicles of Amber, #1-10)",Roger Zelazny,1999.0
+5368,Forever Amber ,Kathleen Winsor,1944.0
+5369,The Amber Room,Steve Berry,2003.0
+5413,'Salem's Lot,"Stephen King, Jerry N. Uelsmann",2005.0
+5417,Carrie / 'Salem's Lot / The Shining,Stephen King,1983.0
+5439,Interpreter of Maladies,Jhumpa Lahiri,1999.0
+5452,"Girls in Pants: The Third Summer of the Sisterhood (Sisterhood, #3)",Ann Brashares,2005.0
+5453,"Forever in Blue: The Fourth Summer of the Sisterhood (Sisterhood, #4)",Ann Brashares,2007.0
+5454,"The Second Summer of the Sisterhood (Sisterhood, #2)",Ann Brashares,2003.0
+5470,1984,"George Orwell, Erich Fromm, Celâl Üster",1949.0
+5472,Animal Farm / 1984,"George Orwell, Christopher Hitchens",1950.0
+5479,Brave New World / Brave New World Revisited,"Aldous Huxley, Christopher Hitchens",1932.0
+5481,Brave New World Revisited ,Aldous Huxley,1958.0
+5508,Anne Frank: Beyond the Diary - A Photographic Remembrance,"Ruud van der Rol, Rian Verhoeven, Anna Quindlen, Anne Frank, Tony Langham, Plym Peters",1992.0
+5509,Anne Frank Remembered: The Story of the Woman Who Helped to Hide the Frank Family,"Miep Gies, Alison Leslie Gold",1987.0
+5517,A Raisin in the Sun,Lorraine Hansberry,1959.0
+5526,Dear John,Nicholas Sparks,2006.0
+5527,All the King's Men,Robert Penn Warren,1946.0
+5544,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",Richard Feynman,1984.0
+5548,What Do You Care What Other People Think?,Richard Feynman,1988.0
+5552,QED: The Strange Theory of Light and Matter,Richard Feynman,1985.0
+5553,Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher,Richard Feynman,1962.0
+5559,Jack: Straight from the Gut,"Jack Welch, John A. Byrne, Mike Barnicle",2001.0
+5571,Cradle to Cradle: Remaking the Way We Make Things,"William McDonough, Michael Braungart",2002.0
+5575,Cradle and All,James Patterson,1980.0
+5659,The Wind in the Willows,"Kenneth Grahame, Gillian Avery",1908.0
+5693,Selected Stories,"Anton Chekhov, Richard Pevear, Larissa Volokhonsky",1900.0
+5695,Demons,"Fyodor Dostoyevsky, Richard Pevear, Larissa Volokhonsky",1872.0
+5697,The Complete Short Novels,"Anton Chekhov, Richard Pevear, Larissa Volokhonsky",1896.0
+5720,"Rainbow Six (Jack Ryan Universe, #10)",Tom Clancy,1998.0
+5752,The Blank Slate: The Modern Denial of Human Nature,Steven Pinker,2002.0
+5755,The Language Instinct: How the Mind Creates Language,Steven Pinker,1994.0
+5759,Fight Club,Chuck Palahniuk,1996.0
+5787,The Aleph and Other Stories ,"Jorge Luis Borges, Andrew Hurley",1947.0
+5797,Vanity Fair,"William Makepeace Thackeray, John Carey",1847.0
+5805,V for Vendetta,"Alan Moore, David   Lloyd",1990.0
+5809,V.,Thomas Pynchon,1963.0
+5826,Bel Canto,Ann Patchett,2001.0
+5845,A Bend in the River,V.S. Naipaul,1979.0
+5849,A House for Mr Biswas,V.S. Naipaul,1961.0
+5872,"Regeneration (Regeneration, #1)",Pat Barker,1991.0
+5890,The Woman in White,"Wilkie Collins, Matthew Sweet",1859.0
+5907,The Hobbit,J.R.R. Tolkien,1937.0
+5932,Twenty Love Poems and a Song of Despair,"Pablo Neruda, W.S. Merwin, Cristina García",1924.0
+5936,The Poetry of Pablo Neruda,"Pablo Neruda, Ilan Stavans",1974.0
+5942,Anil's Ghost,Michael Ondaatje,2000.0
+5946,In the Skin of a Lion,Michael Ondaatje,1987.0
+5954,Narcissus and Goldmund,"Hermann Hesse, Ursule Molinaro",1930.0
+6138,The Moonstone,"Wilkie Collins, Carolyn G. Heilbrun",1868.0
+6149,Beloved,Toni Morrison,1987.0
+6150,"Cry, the Beloved Country",Alan Paton,1948.0
+6159,Reservation Blues,Sherman Alexie,1995.0
+6174,Survival in Auschwitz,"Primo Levi, Stuart J. Woolf, Philip Roth",1947.0
+6185,Wuthering Heights,"Emily Brontë, Richard J. Dunn",1847.0
+6192,Disgrace,J.M. Coetzee,1999.0
+6193,Life and Times of Michael K,J.M. Coetzee,1983.0
+6194,Waiting for the Barbarians,J.M. Coetzee,1980.0
+6259,Birdsong,Sebastian Faulks,1993.0
+6288,The Road,Cormac McCarthy,2006.0
+6294,"Howl's Moving Castle (Howl's Moving Castle, #1)",Diana Wynne Jones,1986.0
+6295,Howl and Other Poems,"Allen Ginsberg, William Carlos Williams",1956.0
+6310,"Charlie and the Chocolate Factory (Charlie Bucket, #1)","Roald Dahl, Quentin Blake",1964.0
+6319,The BFG,"Roald Dahl, Quentin Blake",1982.0
+6327,The Witches,"Roald Dahl, Quentin Blake",1983.0
+6328,Revolting Rhymes,"Roald Dahl, Quentin Blake",1982.0
+6334,Never Let Me Go,Kazuo Ishiguro,2005.0
+6419,"Plum Lovin' (Stephanie Plum, #12.5)",Janet Evanovich,2007.0
+6420,"Visions of Sugar Plums (Stephanie Plum, #8.5)",Janet Evanovich,2002.0
+6422,"Four to Score (Stephanie Plum, #4)",Janet Evanovich,1998.0
+6423,"High Five (Stephanie Plum, #5)",Janet Evanovich,1999.0
+6424,"Seven Up (Stephanie Plum, #7)",Janet Evanovich,2001.0
+6425,"Hard Eight (Stephanie Plum, #8)","Janet Evanovich, Lorelei King",2002.0
+6426,Motor Mouth (Alex Barnaby #2),Janet Evanovich,2006.0
+6427,"Two for the Dough (Stephanie Plum, #2)",Janet Evanovich,1996.0
+6440,Ivanhoe,Walter Scott,1819.0
+6462,His Excellency: George Washington,Joseph J. Ellis,2004.0
+6514,The Bell Jar,Sylvia Plath,1963.0
+6520,My Friend Leonard,James Frey,2005.0
+6526,"Book of the Dead (Kay Scarpetta, #15)",Patricia Cornwell,2007.0
+6528,"Predator (Kay Scarpetta, #14)",Patricia Cornwell,2005.0
+6530,"Trace (Kay Scarpetta, #13)",Patricia Cornwell,2004.0
+6531,"Point of Origin (Kay Scarpetta, #9)",Patricia Cornwell,1998.0
+6534,"Postmortem (Kay Scarpetta, #1)",Patricia Cornwell,1990.0
+6537,"From Potter's Field (Kay Scarpetta, #6)",Patricia Cornwell,1995.0
+6538,Portrait of a Killer: Jack the Ripper - Case Closed,Patricia Cornwell,2002.0
+6539,"The Body Farm (Kay Scarpetta, #5)",Patricia Cornwell,1994.0
+6541,"Cause of Death (Kay Scarpetta, #7)",Patricia Cornwell,1996.0
+6551,Herzog,"Saul Bellow, Philip Roth",1964.0
+6554,Darkness,John Saul,1991.0
+6572,Suffer the Children,John Saul,1977.0
+6588,"The Big Bad Wolf  (Alex Cross, #9)",James Patterson,2003.0
+6596,The Four Agreements: A Practical Guide to Personal Freedom,Miguel Ruiz,1997.0
+6613,Four Blondes,Candace Bushnell,2000.0
+6614,Lipstick Jungle,Candace Bushnell,2005.0
+6628,"The Big Over Easy (Nursery Crime, #1)",Jasper Fforde,2005.0
+6656,The Divine Comedy,"Dante Alighieri, Allen Mandelbaum, Eugenio Montale",1308.0
+6667,Boy: Tales of Childhood,"Roald Dahl, Quentin Blake",1984.0
+6670,The Magic Finger (Young Puffin Developing Reader),"Roald Dahl, Quentin Blake",1966.0
+6671,The Wonderful Story of Henry Sugar and Six More,Roald Dahl,1977.0
+6678,Going Solo,"Roald Dahl, Quentin Blake",1986.0
+6687,"Charlie and the Great Glass Elevator (Charlie Bucket, #2)","Roald Dahl, Quentin Blake",1972.0
+6689,James and the Giant Peach,"Roald Dahl, Quentin Blake",1961.0
+6690,Danny the Champion of the World,"Roald Dahl, Quentin Blake",1975.0
+6693,Fantastic Mr. Fox,"Roald Dahl, Quentin Blake",1970.0
+6694,The Giraffe and the Pelly and Me,"Roald Dahl, Quentin Blake",1985.0
+6697,Little Altars Everywhere,Rebecca Wells,1992.0
+6708,The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,1997.0
+6709,"Practicing the Power of Now: Essential Teachings, Meditations, and Exercises from the Power of Now",Eckhart Tolle,1999.0
+6748,A Supposedly Fun Thing I'll Never Do Again:  Essays and Arguments,David Foster Wallace,1996.0
+6749,Oblivion,David Foster Wallace,2004.0
+6750,The Broom of the System,David Foster Wallace,1987.0
+6751,Consider the Lobster and Other Essays,David Foster Wallace,2005.0
+6753,Brief Interviews with Hideous Men,David Foster Wallace,1999.0
+6759,Infinite Jest,David Foster Wallace,1996.0
+6819,Ghostwritten,David Mitchell,1999.0
+6820,number9dream,David Mitchell,2001.0
+6853,"One for the Money (Stephanie Plum, #1)",Janet Evanovich,1994.0
+6854,"Three to Get Deadly (Stephanie Plum, #3)",Janet Evanovich,1997.0
+6858,"Hot Six (Stephanie Plum, #6)",Janet Evanovich,2000.0
+6862,Amsterdam,Ian McEwan,1998.0
+6867,Atonement,Ian McEwan,2001.0
+6870,Enduring Love,Ian McEwan,1997.0
+6872,The Comfort of Strangers,Ian McEwan,1981.0
+6882,Papillon,Henri Charrière,1969.0
+6900,Tuesdays with Morrie,"Mitch Albom, Saulius Dagys",1997.0
+6952,Like Water for Chocolate,"Laura Esquivel, Thomas  Christensen, Carol Christensen",1989.0
+6969,Emma,"Jane Austen, Fiona Stafford",1815.0
+6976,The Mermaid Chair,Sue Monk Kidd,2004.0
+7035,"Morality for Beautiful Girls (No. 1 Ladies' Detective Agency, #3)",Alexander McCall Smith,2001.0
+7036,"The Kalahari Typing School for Men (No. 1 Ladies' Detective Agency, #4)",Alexander McCall Smith,2002.0
+7039,"Tears of the Giraffe (No. 1 Ladies' Detective Agency, #2)",Alexander McCall Smith,2000.0
+7053,"In the Company of Cheerful Ladies (No. 1 Ladies' Detective Agency, #6)",Alexander McCall Smith,2004.0
+7058,"The Good Husband of Zebra Drive (No. 1 Ladies' Detective Agency, #8)",Alexander McCall Smith,2007.0
+7061,"The No. 1 Ladies' Detective Agency  (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith,1998.0
+7062,Paris to the Moon,Adam Gopnik,2000.0
+7069,The World According to Garp,John Irving,1978.0
+7073,A Son of the Circus,John Irving,1994.0
+7081,The Android's Dream,John Scalzi,2006.0
+7082,Do Androids Dream of Electric Sheep?,"Philip K. Dick, Roger Zelazny",1968.0
+7126,The Count of Monte Cristo,"Alexandre Dumas, Robin Buss",1844.0
+7144,Crime and Punishment,"Fyodor Dostoyevsky, David McDuff",1866.0
+7184,"Twenty Years After (The D'Artagnan Romances, #2)","Alexandre Dumas, David Coward, Auguste Maquet",1845.0
+7186,La Dame aux Camélias,"Alexandre Dumas fils, David Coward",1848.0
+7190,The Three Musketeers,Alexandre Dumas,1844.0
+7194,The Club Dumas,"Arturo Pérez-Reverte, Sonia Soto",1993.0
+7199,The Way the Crow Flies,Ann-Marie MacDonald,2003.0
+7201,As the Crow Flies,Jeffrey Archer,1990.0
+7214,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Donald Miller,2003.0
+7244,The Poisonwood Bible,Barbara Kingsolver,1998.0
+7252,How to Make Love Like a Porn Star: A Cautionary Tale,"Jenna Jameson, Neil Strauss",2004.0
+7329,Unfinished Tales of Númenor and Middle-Earth,"J.R.R. Tolkien, Christopher Tolkien",1980.0
+7332,The Silmarillion (Middle-Earth Universe),"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith",1977.0
+7354,The Shipping News,Annie Proulx,1993.0
+7389,"Runaways, Vol. 1: Pride and Joy (Runaways, #1)","Brian K. Vaughan, Adrian Alphona",2006.0
+7432,"Pardonable Lies (Maisie Dobbs, #3)",Jacqueline Winspear,2005.0
+7433,"Messenger of Truth (Maisie Dobbs, #4)",Jacqueline Winspear,2006.0
+7437,Naked Lunch,"William S. Burroughs, James Grauerholz, Barry  Miles",1959.0
+7442,The Electric Kool-Aid Acid Test,Tom Wolfe,1968.0
+7445,The Glass Castle,Jeannette Walls,2005.0
+7455,Sex and the City,Candace Bushnell,1996.0
+7493,Founding Brothers: The Revolutionary Generation,Joseph J. Ellis,2000.0
+7494,Suzanne's Diary for Nicholas,James Patterson,2001.0
+7510,The Beach House,"James Patterson, Peter de Jonge",2002.0
+7520,"Path of the Assassin (Scot Harvath, #2)",Brad Thor,2003.0
+7531,The Idiot Girls' Action-Adventure Club: True Tales from a Magnificent and Clumsy Life,Laurie Notaro,2002.0
+7572,Even Cowgirls Get the Blues,Tom Robbins,1976.0
+7579,Awakening the Buddha Within: Tibetan Wisdom for the Western World,Lama Surya Das,1997.0
+7588,A Portrait of the Artist as a Young Man,"James Joyce, Seamus Deane",1916.0
+7603,Reading Lolita in Tehran,Azar Nafisi,2003.0
+7604,Lolita,"Vladimir Nabokov, Craig Raine",1955.0
+7613,Animal Farm,George Orwell,1945.0
+7624,Lord of the Flies,William Golding,1954.0
+7628,The Good Soldier,"Ford Madox Ford, Kenneth Womack, William Baker",1915.0
+7661,Next,Michael Crichton,2006.0
+7663,A Case of Need,"Jeffery Hudson, Michael Crichton",1968.0
+7667,Airframe,Michael Crichton,1996.0
+7668,Rising Sun,Michael Crichton,1992.0
+7669,Timeline,Michael Crichton,1999.0
+7670,The Andromeda Strain,Michael Crichton,1969.0
+7672,Congo,Michael Crichton,1980.0
+7673,Eaters of the Dead,Michael Crichton,1976.0
+7675,Disclosure,Michael Crichton,1994.0
+7677,"Jurassic Park (Jurassic Park, #1)",Michael Crichton,1990.0
+7679,The Terminal Man,Michael Crichton,1972.0
+7682,The Great Train Robbery,Michael Crichton,1975.0
+7707,Pygmalion & My Fair Lady,"George Bernard Shaw, Alan Jay Lerner",1956.0
+7714,Pygmalion,George Bernard Shaw,1912.0
+7723,The Metamorphosis and Other Stories,"Franz Kafka, Jason Baker, Donna Freed",1915.0
+7728,"Antigone (The Theban Plays, #3)","Sophocles, J.E. Thomas",-441.0
+7733,Gulliver's Travels,"Jonathan Swift, Robert DeMaria Jr.",1726.0
+7742,"Ahab's Wife, or The Star-Gazer",Sena Jeter Naslund,1999.0
+7745,Fear and Loathing in Las Vegas,"Hunter S. Thompson, Ralph Steadman",1971.0
+7748,Fear and Loathing on the Campaign Trail '72,Hunter S. Thompson,1973.0
+7763,The Joy Luck Club,Amy Tan,1989.0
+7769,Dr. Seuss's ABC: An Amazing Alphabet Book! (Bright and Early Board Books),Dr. Seuss,1963.0
+7770,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,1960.0
+7779,Horton Hears a Who!,Dr. Seuss,1954.0
+7780,The Secret Art of Dr. Seuss,"Dr. Seuss, Maurice Sendak, Audrey Geisel",1995.0
+7784,The Lorax,Dr. Seuss,1971.0
+7785,I Can Read With My Eyes Shut!,Dr. Seuss,1978.0
+7788,The Cat in the Hat and Other Dr. Seuss Favorites,"Dr. Seuss, Various",2003.0
+7797,Ten Apples Up On Top!,"Theo LeSieg, Roy McKie",1961.0
+7805,Pale Fire,Vladimir Nabokov,1962.0
+7815,The Year of Magical Thinking,Joan Didion,2005.0
+7869,"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum,1980.0
+7882,"On the Banks of Plum Creek  (Little House, #4)","Laura Ingalls Wilder, Garth Williams",1937.0
+7909,"Betsy-Tacy (Betsy-Tacy, #1)","Maud Hart Lovelace, Lois Lenski",1940.0
+7911,Five Little Peppers and How They Grew,Margaret Sidney,1881.0
+7926,"All-of-a-Kind Family (All-of-a-Kind Family, #1)",Sydney Taylor,1951.0
+7967,"Speaker for the Dead (Ender's Saga, #2)",Orson Scott Card,1986.0
+7968,"Red Prophet (Tales of Alvin Maker, #2)",Orson Scott Card,1988.0
+7973,Enchantment,Orson Scott Card,1999.0
+7979,"The Bellmaker (Redwall, #7)",Brian Jacques,1994.0
+7980,"Pearls of Lutra (Redwall, #9)",Brian Jacques,1996.0
+7981,"The Long Patrol (Redwall, #10)","Brian Jacques, Allan Curless",1997.0
+7983,"Salamandastron (Redwall, #5)","Brian Jacques, Gary Chalk",1992.0
+7987,"The Legend of Luke (Redwall, #12)",Brian Jacques,1999.0
+7993,"Mariel of Redwall (Redwall, #4)","Brian Jacques, Gary Chalk",1991.0
+7996,"Redwall (Redwall, #1)",Brian Jacques,1986.0
+7998,"Outcast of Redwall (Redwall, #8)",Brian Jacques,1995.0
+7999,"Marlfox (Redwall, #11)",Brian Jacques,1998.0
+8073,Cloudy With a Chance of Meatballs,"Judi Barrett, Ron Barrett",1978.0
+8087,Deerskin,Robin McKinley,1993.0
+8088,Sunshine,Robin McKinley,2003.0
+8089,Rose Daughter,Robin McKinley,1997.0
+8127,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,1908.0
+8155,A Woman of Substance (Emma Harte Saga #1),Barbara Taylor Bradford,1979.0
+8172,Superman: Birthright,"Mark Waid, Alfred Gough, Miles Millar, Dave McCaig, Gerry Alanguilan, Leinil Francis Yu",2003.0
+8248,"By the Shores of Silver Lake  (Little House, #5)","Laura Ingalls Wilder, Garth Williams",1939.0
+8252,"Farmer Boy (Little House, #3)","Laura Ingalls Wilder, Garth Williams",1933.0
+8253,"Little Town on the Prairie  (Little House, #7)","Laura Ingalls Wilder, Garth Williams",1941.0
+8282,"The Long Winter (Little House, #6)","Laura Ingalls Wilder, Garth Williams",1940.0
+8296,"The First Four Years  (Little House, #9)","Laura Ingalls Wilder, Garth Williams",1953.0
+8337,"Little House in the Big Woods (Little House, #1)","Laura Ingalls Wilder, Garth Williams",1932.0
+8492,Prophet,Frank E. Peretti,1992.0
+8515,The Man Who Listens to Horses,"Monty Roberts, Lucy Grealy, Lawrence Scanlan",1997.0
+8600,"Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation",Lynne Truss,2003.0
+8646,Crow Lake,Mary Lawson,2002.0
+8647,"Shadow of the Giant (Ender's Shadow, #4)",Orson Scott Card,2005.0
+8648,"Xenocide (Ender's Saga, #3)",Orson Scott Card,1991.0
+8650,"The Lost World (Jurassic Park, #2)",Michael Crichton,1995.0
+8676,Unlimited Power : The New Science Of Personal Achievement,"Anthony Robbins, Kenneth H. Blanchard, Jason Winters",1986.0
+8680,Fierce Invalids Home from Hot Climates,Tom Robbins,2000.0
+8682,Jitterbug Perfume,Tom Robbins,1984.0
+8694,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",Douglas Adams,1982.0
+8695,"The Restaurant at the End of the Universe (Hitchhiker's Guide, #2)",Douglas Adams,1980.0
+8696,Last Chance to See,"Douglas Adams, Mark Carwardine",1990.0
+8698,"So Long, and Thanks for All the Fish (Hitchhiker's Guide to the Galaxy, #4)",Douglas Adams,1984.0
+8725,Comfort Me with Apples: More Adventures at the Table,Ruth Reichl,2001.0
+8732,The Red Pony,John Steinbeck,1933.0
+8745,Desert Flower,"Waris Dirie, Cathleen Miller",1998.0
+8765,I Feel Bad about My Neck: And Other Thoughts on Being a Woman,Nora Ephron,2006.0
+8852,Macbeth,William Shakespeare,1606.0
+8908,World War Z: An Oral History of the Zombie War,Max Brooks,2006.0
+8909,The War of the Worlds,"H.G. Wells, Arthur C. Clarke",1897.0
+8914,The First World War,John Keegan,1998.0
+8921,The Hound of the Baskervilles,"Arthur Conan Doyle, Anne Perry",1902.0
+8948,"Sons of Destiny (Cirque Du Freak, #12)",Darren Shan,2002.0
+8949,"Lord of the Shadows (Cirque Du Freak, #11)",Darren Shan,2005.0
+8951,"The Lake of Souls (Cirque Du Freak, #10)",Darren Shan,2002.0
+8952,"Killers of the Dawn (Cirque Du Freak, #9)",Darren Shan,2003.0
+8953,"Freak the Mighty (Freak The Mighty, #1)",Rodman Philbrick,1993.0
+8957,"Tunnels of Blood (Cirque Du Freak, #3)",Darren Shan,2000.0
+8960,"Vampire Mountain (Cirque Du Freak, #4)",Darren Shan,2001.0
+8962,"A Living Nightmare (Cirque Du Freak, #1)",Darren Shan,2000.0
+8963,"Hunters of the Dusk (Cirque Du Freak, #7)",Darren Shan,2002.0
+8964,"Jesus Freaks: Stories of Those Who Stood for Jesus, the Ultimate Jesus Freaks (Jesus Freaks, #1)","D.C. Talk, The Voice of the Martyrs",1997.0
+8965,"The Vampire's Assistant (Cirque Du Freak, #2)",Darren Shan,2000.0
+8966,"Allies of the Night (Cirque du Freak, #8)",Darren Shan,2002.0
+8967,"Trials of Death (Cirque Du Freak, #5)",Darren Shan,2001.0
+8968,"The Vampire Prince (Cirque Du Freak, #6)",Darren Shan,2002.0
+9010,"I Hope They Serve Beer in Hell (Tucker Max, #1)",Tucker Max,2006.0
+9013,The Long Walk: The True Story of a Trek to Freedom,Slavomir Rawicz,1956.0
+9014,The Long Walk,"Richard Bachman, Stephen King",1979.0
+9282,The Smoke Jumper,Nicholas Evans,2001.0
+9298,Last Chance Saloon,Marian Keyes,1999.0
+9300,"Watermelon (Walsh Family, #1)",Marian Keyes,1995.0
+9301,"Rachel's Holiday (Walsh Family, #2)",Marian Keyes,1997.0
+9302,The Other Side of the Story,Marian Keyes,2004.0
+9303,Lucy Sullivan Is Getting Married,Marian Keyes,1996.0
+9328,The House of the Spirits,"Isabel Allende, Magda Bogin",1982.0
+9355,Until I Find You,John Irving,2005.0
+9370,Skinny Legs and All,Tom Robbins,1990.0
+9375,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,1987.0
+9416,"Confessions of a Shopaholic (Shopaholic, #1)",Sophie Kinsella,2000.0
+9417,"Shopaholic and Sister (Shopaholic, #4)",Sophie Kinsella,2004.0
+9418,"Shopaholic Takes Manhattan (Shopaholic, #2)",Sophie Kinsella,2001.0
+9419,"Shopaholic Ties the Knot (Shopaholic, #3)",Sophie Kinsella,2002.0
+9420,"Shopaholic & Baby (Shopaholic, #5)",Sophie Kinsella,2007.0
+9454,Phenomenology of Spirit,"Georg Wilhelm Friedrich Hegel, A.V. Miller, John Niemeyer Findlay",1807.0
+9475,"Midnight for Charlie Bone (The Children of the Red King, #1)",Jenny Nimmo,2002.0
+9503,Saving Fish from Drowning,Amy Tan,2005.0
+9516,"Persepolis: The Story of a Childhood (Persepolis, #1)","Marjane Satrapi, Mattias Ripa",2000.0
+9517,"Persepolis 2: The Story of a Return (Persepolis, #2)","Marjane Satrapi, Anjali Singh",2001.0
+9522,"Persepolis, Volume 1",Marjane Satrapi,2000.0
+9526,Embroideries,"Marjane Satrapi, Anjali Singh",2006.0
+9530,Shadow Divers,Robert Kurson,2004.0
+9531,"Peter and the Shadow Thieves (Peter and the Starcatchers, #2)","Dave Barry, Ridley Pearson, Greg Call",2006.0
+9532,"Ender's Shadow (Ender's Shadow, #1)",Orson Scott Card,1998.0
+9534,"Shadow of the Hegemon (Ender's Shadow, #2)",Orson Scott Card,2000.0
+9539,"The Shadow Rising (Wheel of Time, #4)",Robert Jordan,1992.0
+9549,Shadows of the Empire (Star Wars),Steve Perry,1996.0
+9555,The Elephant Vanishes,"Haruki Murakami, Jay Rubin, Alfred Birnbaum",1993.0
+9557,Sputnik Sweetheart,"Haruki Murakami, Philip Gabriel",1999.0
+9566,Still Life with Woodpecker,Tom Robbins,1980.0
+9567,Half Asleep in Frog Pajamas,Tom Robbins,1994.0
+9569,Villa Incognito,Tom Robbins,2003.0
+9570,Another Roadside Attraction,Tom Robbins,1971.0
+9589,Hocus Pocus,Kurt Vonnegut Jr.,1990.0
+9590,"God Bless You, Mr. Rosewater",Kurt Vonnegut Jr.,1965.0
+9592,Mother Night,Kurt Vonnegut Jr.,1961.0
+9593,Galápagos,Kurt Vonnegut Jr.,1985.0
+9594,Timequake,Kurt Vonnegut Jr.,1997.0
+9595,"Slapstick, or Lonesome No More!",Kurt Vonnegut Jr.,1976.0
+9597,Player Piano,Kurt Vonnegut Jr.,1952.0
+9598,Deadeye Dick,Kurt Vonnegut Jr.,1982.0
+9601,Bluebeard,Kurt Vonnegut Jr.,1987.0
+9646,Homage to Catalonia,"George Orwell, Lionel Trilling",1938.0
+9648,Keep the Aspidistra Flying,George Orwell,1936.0
+9650,Burmese Days,George Orwell,1934.0
+9654,Fear of Flying,Erica Jong,1973.0
+9712,Love in the Time of Cholera,"Gabriel García Márquez, Edith Grossman",1985.0
+9717,The Unbearable Lightness of Being,"Milan Kundera, Michael Henry Heim",1984.0
+9742,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Barack Obama,2006.0
+9762,Loving What Is: Four Questions That Can Change Your Life,"Byron Katie, Stephen Mitchell",2002.0
+9777,The God of Small Things,Arundhati Roy,1997.0
+9784,"Women in Love (Brangwen Family, #2)",D.H. Lawrence,1920.0
+9791,A Walk in the Woods,Bill Bryson,1997.0
+9799,The Fortress of Solitude,Jonathan Lethem,2003.0
+9804,The Baron in the Trees,"Italo Calvino, Archibald Colquhoun",1957.0
+9809,Invisible Cities,"Italo Calvino, William Weaver",1972.0
+9820,Crossing to Safety,Wallace Stegner,1987.0
+9822,"Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",Robert C. O'Brien,1971.0
+9827,"King Rat (Asian Saga, #4)",James Clavell,1962.0
+9833,"Blind Willow, Sleeping Woman","Haruki Murakami, Philip Gabriel, Jay Rubin",2006.0
+9838,The Bookseller of Kabul,"Åsne Seierstad, Ingrid Christopherson",2002.0
+9844,Prep,Curtis Sittenfeld,2005.0
+9854,The End of Poverty,"Jeffrey D. Sachs, Bono",2005.0
+9864,The Ground Beneath Her Feet,Salman Rushdie,1999.0
+9865,The Moor's Last Sigh,Salman Rushdie,1995.0
+9912,The Rules of Attraction,Bret Easton Ellis,1987.0
+9913,Glamorama,Bret Easton Ellis,1998.0
+9914,The Informers,Bret Easton Ellis,1994.0
+9915,Less Than Zero,Bret Easton Ellis,1985.0
+9943,The Atonement Child,Francine Rivers,1997.0
+9957,The Cement Garden,Ian McEwan,1978.0
+9998,The Woman in the Dunes,"Kōbō Abe, E. Dale Saunders",1962.0

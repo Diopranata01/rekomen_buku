@@ -9,12 +9,10 @@ from keras.models import load_model
 
 
 # Memuat model
-model = tf.keras.models.load_model('model.h5', compile=False)
+model = tf.keras.models.load_model('model.h5', compile=True)
 
 
 Dataset_buku = './data_sets'
-
-# @st.cache_data
 
 def prepare_data():
     
@@ -169,7 +167,9 @@ def show_user_recommendations(user_ratings, book_not_read, book_data):
 def main():
     st.title('Sistem Rekomendasi Buku')
 
-    book_data, cosine_sim_df = prepare_data()
+    # book_data, cosine_sim_df = prepare_data()
+    book_data = './book_data.csv'
+    cosine_sim_df = './cosine_similarity.csv'
 
     judul_buku_input = st.text_input('Masukkan judul buku:')
     rekomendasi_jumlah = st.slider('Jumlah rekomendasi:', 1, 10, 5)
