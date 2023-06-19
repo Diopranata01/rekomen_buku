@@ -9,7 +9,7 @@ from keras.models import load_model
 
 
 # Memuat model
-model = tf.keras.models.load_model('model.h5', compile=True)
+model = tf.keras.models.load_model('model.h5', compile=False)
 
 Dataset_buku = './data_sets'
 
