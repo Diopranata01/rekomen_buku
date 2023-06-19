@@ -170,6 +170,9 @@ def main():
     book_data = pd.read_csv('./book_data.csv')
     cosine_sim_df = pd.read_csv('./cosine_similarity.csv')
 
+    # Ubah nama kolom 'judul_buku' menjadi 'judul' pada DataFrame book_data
+    book_data = book_data.rename(columns={'judul_buku': 'judul'})
+
     judul_buku_input = st.text_input('Masukkan judul buku:')
     rekomendasi_jumlah = st.slider('Jumlah rekomendasi:', 1, 10, 5)
 
