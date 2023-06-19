@@ -7,9 +7,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 import time
 from keras.models import load_model
 
+# Mengatur TensorFlow agar hanya melihat CPU
+tf.config.set_visible_devices([], 'GPU')
 
-# Memuat model
-model = tf.keras.models.load_model('model.h5', compile=False)
+# Memuat model pada CPU
+with tf.device('/CPU:0'):
+    model = tf.keras.models.load_model('model.h5', compile=False)
 
 Dataset_buku = './data_sets'
 
