@@ -13,7 +13,8 @@ model = tf.keras.models.load_model('model.keras', compile=False)
 
 Dataset_buku = './data_sets'
 
-@st.cache_data
+# @st.cache_data
+
 def prepare_data():
     
     Dataset_buku = './data_sets'
