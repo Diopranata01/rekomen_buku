@@ -111,7 +111,7 @@ def get_user_data(input_user_id, book_data):
     pembaca_id = int(input_user_id)
     book_read_by_user = df[df['user_id'] == pembaca_id]
 
-    st.write(book_read_by_user)
+    # st.write(book_read_by_user)
 
     book_not_read = book_data[~book_data['id_buku'].isin(book_read_by_user.book_id.values)]['id_buku']
     book_not_read = list(
