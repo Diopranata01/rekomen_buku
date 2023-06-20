@@ -86,11 +86,10 @@ def book_recommendations(judul_buku, similarity_data, items, k=5):
     index = similarity_data.loc[:, judul_buku].to_numpy().argpartition(range(-1, -k, -1))
     closest = similarity_data.columns[index[-1:-(k+2):-1]]
     closest = closest.drop(judul_buku, errors='ignore')
-
-    closest
+    closest = closest.rename('judul_buku')
     
     # return pd.DataFrame(closest).merge(items).head(k)
-    return pd.DataFrame(closest).merge(items, left_on='judul_buku', right_on='0').head(k)
+    return pd.DataFrame(closest).merge(items, on='judul_buku').head(k)
 
 def get_user_data(user_id, book_data):
     
@@ -167,9 +166,14 @@ def show_user_recommendations(user_ratings, book_not_read, book_data):
     for row in recommended_book.itertuples():
         st.write(row.penulis, ':', row.judul_buku)
 
+def search_title(judul_buku, book_data):
+    newdata = book_data[book_data.judul_buku.eq('The Informers')]
+
+    return pd.DataFrame(newdata)
 
 def main():
     st.title('Sistem Rekomendasi Buku')
+    toggle = False
 
     # book_data, cosine_sim_df = prepare_data()
     book_data = pd.read_csv('./book_data.csv')
@@ -179,13 +183,23 @@ def main():
     # book_data = book_data.rename(columns={'judul_buku': 'judul'})
 
     judul_buku_input = st.text_input('Masukkan judul buku:')
+    judul_buku_input = judul_buku_input.title()
+    
     rekomendasi_jumlah = st.slider('Jumlah rekomendasi:', 1, 10, 5)
 
     if st.button('Rekomendasikan'):
+        toggle = True
+
         rekomendasi = book_recommendations(judul_buku_input, cosine_sim_df, book_data, k=rekomendasi_jumlah)
         st.write('Rekomendasi Buku:')
         st.dataframe(rekomendasi)
+    else:
+        toggle = False
 
+    if toggle :
+        st.write('Judul Yang Dimasukan:')
+        search_judul_buku = search_title(judul_buku_input, book_data)
+        st.dataframe(search_judul_buku)
 
     user_id_input = st.text_input('Masukkan user ID:')
     
