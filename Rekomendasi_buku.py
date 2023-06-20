@@ -190,16 +190,16 @@ def main():
     if st.button('Rekomendasikan'):
         toggle = True
 
+        if toggle :
+            st.write('Judul Yang Dimasukan:')
+            search_judul_buku = search_title(judul_buku_input, book_data)
+            st.dataframe(search_judul_buku)
+
         rekomendasi = book_recommendations(judul_buku_input, cosine_sim_df, book_data, k=rekomendasi_jumlah)
         st.write('Rekomendasi Buku:')
         st.dataframe(rekomendasi)
     else:
         toggle = False
-
-    if toggle :
-        st.write('Judul Yang Dimasukan:')
-        search_judul_buku = search_title(judul_buku_input, book_data)
-        st.dataframe(search_judul_buku)
 
     user_id_input = st.text_input('Masukkan user ID:')
     
