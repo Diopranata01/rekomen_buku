@@ -86,6 +86,8 @@ def book_recommendations(judul_buku, similarity_data, items, k=5):
     index = similarity_data.loc[:, judul_buku].to_numpy().argpartition(range(-1, -k, -1))
     closest = similarity_data.columns[index[-1:-(k+2):-1]]
     closest = closest.drop(judul_buku, errors='ignore')
+
+    closest
     
     # return pd.DataFrame(closest).merge(items).head(k)
     return pd.DataFrame({'judul_buku': closest}).merge(items).head(k)
